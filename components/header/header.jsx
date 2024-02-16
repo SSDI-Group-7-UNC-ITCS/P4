@@ -3,7 +3,7 @@ import './header.css';
 
 /**
  * Define Header, a React component of Project 4, Problem 3.
-  code contributed by Priyanka Mekala */
+  code contributed by Priyanka Mekala  */
 class Header extends React.Component {
     constructor(props) {
         super(props);
