@@ -1,0 +1,28 @@
+div.header {
+    font-size: 48pt;
+    font-family: AppleGothic, serif;
+    transition: 0.8s;
+    border: #0c0002 double 2px;
+    border-width: thick;
+    padding: 10px;
+    text-align: center;
+}
+div.header:hover {
+    transform: rotateY(360deg);
+}
+
+div.gradient {
+    height: 100px;
+    background-image: linear-gradient(#ec5705, whitesmoke);
+}
+
+div.button {
+    display: flex;
+    justify-content: space-between;
+    padding:5px;
+    background-color: #47ea08;
+    border: 1px solid #030000;
+    border-width: medium;
+    color:#000;
+    text-decoration:none;
+}
