@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/main.css';
 
-import Example from './components/example/Example';
+import Example from './components/example/example';
 
 ReactDOM.render(
   <Example />,
